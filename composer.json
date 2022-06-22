@@ -1,5 +1,5 @@
 {
-  "name": "muran2/laravel-clickhouse",
+  "name": "muran2/bavix-laravel-9-clickhouse",
   "description": "Eloquent model for ClickHouse",
   "type": "library",
   "license": "MIT",
